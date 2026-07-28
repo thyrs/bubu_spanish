@@ -1,0 +1,7 @@
+Domingo (Sunday)
+Lunes (monday)
+Martes (Tuesday)
+Miercoles (Wednesday)
+Jueves (Thursday)
+Viernes (Friday)
+Sabado (Saturday)
