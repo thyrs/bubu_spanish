@@ -195,7 +195,7 @@ Vocales claras como en chewa.
 
 ---
 
-### **Medical terms and diseases** 
+### **Medical_terms_and_diseases** 
 | English        | Español         | Pronunciación      |
 |----------------|-----------------|--------------------|
 | Headache      | dolor de cabeza | do-lor de ka-be-sa |
