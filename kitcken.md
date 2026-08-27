@@ -9,6 +9,7 @@
 
 # 📚 Vocabulary - WITH Pronunciation!
 
+Kitchen
 ```
 | English | Español  | Pronunciation |
 | ------- | -------- | ------------- |
