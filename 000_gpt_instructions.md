@@ -1,6 +1,6 @@
 
 ```
-yo como pan
-sho komo pan (pronunciation )
-i eat bread (meaning)
+yo como pan (spanish written)
+sho komo pan (chewa pronunciation )
+i eat bread (english meaning)
 ```

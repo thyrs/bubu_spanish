@@ -46,11 +46,21 @@ zero
 *1. The "ch" digraph*  
 *ch* is now its own sound: /tʃ/ like "ch" in "cheese"  
 Examples: *ch*ico /tʃi*k*o/, *ch*ocolate
+
 # The CH combination  
 The "ch" has its own sounds the same as in English
-- Choco /cho-ko/ (chocolate,)  
-- Chun-che /chun-che/ (thing)  
-- Chan-cho /chan-cho/ (pig)
+
+Choco
+cho-ko
+(chocolate,)  
+
+Chun-che
+chun-che
+(thing)  
+
+Chan-cho
+chan-cho
+(pig)
 
 *Quick trick to remember:*  
 C + a,o,u = *k*  
