@@ -44,3 +44,28 @@ I es mui ihnorante
 And is very ignorant
 
 Proverbs 9.1
+
+```
+Jeremías 29:11
+Reina-Valera 1995
+
+Porque  yo  sé  los pensamientos 
+Porke  jjo  sé  los pensamientos*
+because i  know the thoughts
+
+que  tengo  acerca de vosotros, 
+ke   tengo  aserka de bosotros*
+that i-have about   you
+
+dice Jehová, 
+dise heova*
+says Jehova
+
+pensamientos de paz  y   no de  mal, 
+pensamientos de pas  i   no de  mal,* 
+thoughts    of peace and not of evil
+
+para daros el fin que esperáis.
+para daros el fin ke  esperáis.*
+to   give the end u    hope
+```
