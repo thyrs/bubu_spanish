@@ -64,5 +64,4 @@
 - [ ] [Letter_W](pronunciation/Letter_W.md)
 - [ ] [Letter_X](pronunciation/Letter_X.md)
 - [ ] [Lettter_J](pronunciation/Lettter_J.md)
-- [ ] [Lettter_R](pronunciation/Lettter_R.md)
-
+- [ ] [Lettter_R](pronun
