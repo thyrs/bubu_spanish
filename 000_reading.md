@@ -69,3 +69,42 @@ para daros el fin que esperáis.
 para daros el fin ke  esperáis.*
 to   give the end u    hope
 ```
+
+# isa 60
+```
+Isaías 60.1-3
+
+
+«¡Levántate, resplandece,  porque ha venido tu luz
+«¡Lebántate, rresplandese, porke   a benido tu lus
+get-up         shine      because has came you light
+
+y la gloria de Jehová ha nacido sobre ti!
+i la gloria de heová   a nacido sobre ti!
+and the glory of Jehová has born over you
+
+Porque he aquí que tinieblas cubrirán la tierra
+Porkee  e akí  ke  tinieblas kubrirán la tierra
+because here that darkness will-cover the earth
+
+y oscuridad las naciones;
+i oskuridad las nasiones;
+and darkness the nations
+
+mas sobre ti amanecerá Jehová
+mas sobre ti amaneserá heová
+but over you will-rise Jehová
+
+y sobre ti será vista su gloria.
+y sobre ti será bista su gloria.
+and over you will-be seen His Glory
+
+Andarán las naciones a tu luz
+Andarán las nasiones a tu lus
+will-walk the nations at your light
+
+y los reyes  al resplandor  de tu amanecer.
+i los rreyes al rresplandor de tu amaneser.
+and the kings at bright     of your dawn
+
+```

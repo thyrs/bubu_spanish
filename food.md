@@ -5,29 +5,116 @@ Hoy vamos a aprender palabras básicas de comida. Las vocales en español suenan
 
 ### Vocabulario
 
-| English    | Español     | Pronunciación |
-| ---------- | ----------- | ------------- |
-| Bread      | pan         | pan           |
-| Butter     | mantequilla | man-te-ki-ya  |
-| Sweets     | dulces      | dul-ses       |
-| Coffee     | café        | ka-fé         |
-| Egg        | huevo       | we-vo         |
-| Fruit      | fruta       | fru-ta        |
-| Meat       | carne       | kar-ne        |
-| Milk       | leche       | le-che        |
-| Salt       | sal         | sal           |
-| Sugar      | azúcar      | a-su-kar      |
-| Vegetables | verduras    | ver-du-ras    |
-| Water      | agua        | a-gua         |
+```
+Bread 
+pan         
+pan          
+```
+
+```
+Butter
+mantequilla 
+man-te-ki-ya 
+```
+
+```
+Sweets
+dulces      
+dul-ses      
+```
+
+```
+Coffee
+café        
+ka-fé        
+```
+
+```
+Egg   
+huevo       
+we-vo        
+```
+
+```
+Fruit 
+fruta       
+fru-ta       
+```
+
+```
+Meat  
+carne       
+kar-ne       
+```
+
+```
+Milk  
+leche       
+le-che       
+```
+
+```
+Salt  
+sal         
+sal          
+```
+
+```
+Sugar 
+azúcar      
+a-su-kar     
+```
+
+```
+Vegetables 
+verduras    
+ver-du-ras   
+```
+
+```
+Water 
+agua        
+a-gua        
+```
 
 ### Frases útiles (Useful phrases)
 
-- **Quiero pan.** (I want bread.)  
-- **Me gusta café.** (I like coffee.)  
-- **Leche es buena.** (Milk is good.)  
-- **¿Tienes agua?** (Do you have water?)  
-- **Como fruta y verduras.** (I eat fruit and vegetables.)  
-- **Carne con sal.** (Meat with salt.)  
+
+```
+Quiero pan.
+kiero pan.
+I want bread
+``` 
+
+```
+Me gusta café.
+Me gusta café.
+I like coffee
+``` 
+
+```
+Leche es buena.
+Leche es buena.
+Milk is good
+``` 
+
+```
+¿Tienes agua?
+¿Tienes awa?
+Do you have water
+``` 
+
+```
+Como fruta y verduras.
+komo fruta i berduras.
+I eat fruit and vegetables
+``` 
+
+```
+Carne con sal.
+Carne con sal.
+Meat with salt
+``` 
 
 ### Ejercicio rápido (Quick exercise)
 

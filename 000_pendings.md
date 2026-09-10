@@ -5,6 +5,10 @@ Formato fácil: tabla con **English - Español - Pronunciación**.
 Vocales claras como en chewa.
 
 ---
+- [ ] Nature: fire, light, sun
+- [ ] Business: bank, cent, penny, money, office, manager, show, size, shop, trouble, way
+- [ ] Travel: boat, car, country, hotel, left, place, right, station, street, ticket, town, train
+- [ ] Objects: bag, book, letter, telephone, thing, story, word, picture, nothing
 
 ### **Body** (El Cuerpo)
 | English | Español  | Pronunciación |
@@ -22,24 +26,6 @@ Vocales claras como en chewa.
 | Heart   | corazón  | ko-ra-son     |
 | Stomach | estómago | es-to-ma-go   |
 | Teeth   | dientes  | dien-tes      |
-
----
-
-### **Animals** 
-| English     | Español      | Pronunciación     |
-|-------------|--------------|-------------------|
-| Dog        | perro       | pe-rro           |
-| Cat        | gato        | ga-to            |
-| Cow        | vaca        | ba-ka            |
-| Chicken    | pollo       | po-yo            |
-| Fish       | pez         | pes              |
-| Bird       | pájaro      | pa-ha-ro         |
-| Goat       | cabra       | ka-bra           |
-| Horse      | caballo     | ka-ba-yo         |
-| Lion       | león        | le-on            |
-| Snake      | serpiente   | ser-pien-te      |
-| Elephant   | elefante    | e-le-fan-te      |
-| Monkey     | mono        | mo-no            |
 
 ---
 
@@ -193,19 +179,6 @@ Vocales claras como en chewa.
 | Swimming   | nadar       | na-dar           |
 | Ball       | pelota      | pe-lo-ta         |
 
----
-
-### **Medical_terms_and_diseases** 
-| English        | Español         | Pronunciación      |
-|----------------|-----------------|--------------------|
-| Headache      | dolor de cabeza | do-lor de ka-be-sa |
-| Fever         | fiebre         | fie-bre           |
-| Cough         | tos            | tos               |
-| Malaria       | malaria        | ma-la-ria         |
-| Hospital      | hospital       | os-pi-tal         |
-| Medicine      | medicina       | me-di-si-na       |
-| Pain          | dolor          | do-lor            |
-| Sick          | enfermo        | en-fer-mo         |
 
 ---
 

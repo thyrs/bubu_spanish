@@ -1,9 +1,5 @@
 # 🐾 Lesson: Animals (Los Animales)
 
----
-
-## 📋 Vocabulary First - Study This!
-
 ### 🐾 Animals / Los Animales
 
 ```
@@ -26,7 +22,7 @@ cow
 
 ```
 pollo
-po-yo
+po-jjo
 chicken
 ```
 
@@ -50,7 +46,7 @@ goat
 
 ```
 caballo
-ka-ba-yo
+ka-ba-jjo
 horse
 ```
 
@@ -88,25 +84,25 @@ monkey
 
 ```
 Yo veo un perro
-yo be-o un pe-rro
+jjo be-o un pe-rro
 I see a dog
 ```
 
 ```
 Yo veo un gato
-yo be-o un ga-to
+jjo be-o un ga-to
 I see a cat
 ```
 
 ```
 Yo veo una vaca
-yo be-o u-na ba-ka
+jjo be-o u-na ba-ka
 I see a cow
 ```
 
 ```
 Yo veo un pájaro
-yo be-o un pa-ha-ro
+jjo be-o un pa-ha-ro
 I see a bird
 ```
 
@@ -132,7 +128,7 @@ There is a snake here
 
 ```
 Hay un caballo grande
-ay un ka-ba-yo gran-de
+ay un ka-ba-jjo gran-de
 There is a big horse
 ```
 
@@ -142,7 +138,7 @@ There is a big horse
 
 ```
 Me gusta el pollo
-me gus-ta el po-yo
+me gus-ta el po-jjo
 I like chicken
 ```
 
@@ -180,7 +176,7 @@ The cat is small
 
 ```
 El elefante es muy grande
-el e-le-fan-te es muy gran-de
+el e-le-fan-te es mui gran-de
 The elephant is very big
 ```
 
@@ -282,7 +278,7 @@ Choose: **un / una / el / la**
 
 ```
 Yo veo un perro
-yo be-o un pe-rro
+jjo be-o un pe-rro
 I see a dog
 ```
 
@@ -306,7 +302,7 @@ There is a big monkey
 
 ```
 El caballo es bonito
-el ka-ba-yo es bo-ni-to
+el ka-ba-jjo es bo-ni-to
 The horse is beautiful
 ```
 
