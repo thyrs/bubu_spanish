@@ -6,7 +6,7 @@ In Spanish, the letter *c* has 3 main sounds. Which one you use depends on the v
 Sounds like *k* in "cat"  
 When *c* comes before: *a, o, u, or any consonant*  
 Examples: 
-
+```
 casa 
 kasa
 house
@@ -22,13 +22,13 @@ course
 clase 
 klase
 class
-
+```
 *2. C = /s/ "soft C"*  
 Sounds like *s* in "sun"  
 When *c* comes before: *e, i*  
 This is the pronunciation in most of Latin America and the Canary Islands.  
 Examples:
-
+```
 cena
 sena 
 dinner  
@@ -40,7 +40,7 @@ movie
 cero
 sero 
 zero
-
+```
 *Extra rules to know*
 
 *1. The "ch" digraph*  
@@ -49,7 +49,7 @@ Examples: *ch*ico /tʃi*k*o/, *ch*ocolate
 
 # The CH combination  
 The "ch" has its own sounds the same as in English
-
+```
 Choco
 cho-ko
 (chocolate,)  
@@ -61,7 +61,7 @@ chun-che
 Chan-cho
 chan-cho
 (pig)
-
+```
 *Quick trick to remember:*  
 C + a,o,u = *k*  
 C + e,i = *s* in Costa Rica/Latam, *th* in Spain

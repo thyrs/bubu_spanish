@@ -3,7 +3,7 @@
 "T" sound in spanish is more like a "D"
 Ta te ti to tu
 
-
+```
 Tonto 
 Tonto 
 fool
