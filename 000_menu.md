@@ -6,7 +6,7 @@
 
 ## Module 2 grammar and vocabulary
 - [x] [Numbers 1-100](<numbers 1-100.md>): 
-- [ ] Numbers 100-1M:
+- [ ] Numbers_100-1M:
 - [ ] [Demonstratives](demostrtives.md):
 - [ ] [verb To be](Verb_to_be.md)  
 - [ ] [pronouns](Pronouns.md): i,you , she, he, we, you
@@ -37,8 +37,8 @@
     - [ ] Profanity: 
 - [ ] [Time and clock](Time_and_clock.md): day, evening, hour, minute, month, morning, night, time, today, tonight, tomorrow, week, yesterday
 - [ ] [Prepositions](Prepositions.md): at, after, for, from, in, on, to, with
-- [ ] Simple Past:
-- [ ] Simple Future:
+- [ ] Simple_Past:
+- [ ] Simple_Future:
 - [ ] Modifiers: again, all, any, big, clean, cold, correct, down, easy, every, expensive, good, happy, here, how?, little, long, many, more, married, much, new, nice, no, not, now, old, one, other, piece, ready, same, slow, some, sorry, that, there, this, too, also, up, warm, very, well, what?, when?, where?, who?, why?
 - [ ] Conjunctions: and, or, if, but, so, that
 - [ ] [Possessives](possessives.md): my, your, their
