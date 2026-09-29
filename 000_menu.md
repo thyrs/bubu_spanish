@@ -21,7 +21,7 @@
     - [ ] House: bath, floor, house, key, room, table
     - [ ] [days of the week.md](<days of the week done.md>)
     - [ ] [Colors](<colors done.md>)
-    - [ ] Body:
+    - [ ] [Body:](Body.md)
     - [x] [Animals](animals.md)
     - [x] [kitchen](kitcken.md)
     - [x] [People](people.md)
