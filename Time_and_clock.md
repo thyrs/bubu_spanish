@@ -1,4 +1,6 @@
-### La Hora (The Time)
+[Main menu ↩](000_menu.md)
+
+# La Hora (The Time)
 
 - **¿Qué hora es?** (What time is it?)
 - **Es la una.** (It's one o'clock.)

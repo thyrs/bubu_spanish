@@ -1,4 +1,8 @@
-Class 2 - demonstratives
+[Main menu ↩](000_menu.md)
+
+
+
+# Class 2 - demonstratives|
 
 In spanish there is usually a male and female version for every word. Male (M) Female (F)
 

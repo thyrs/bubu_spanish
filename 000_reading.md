@@ -1,3 +1,5 @@
+[Main menu ↩](000_menu.md)
+
 Hay un feliz eden lejos de aqui
 Ai un felis eden lehos de aki
 There is a happy eden far from here

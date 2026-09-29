@@ -1,3 +1,5 @@
+[Main menu ↩](000_menu.md)
+
 # 🏥 Lesson: Medical Terms (Términos Médicos)
 
 > **Remember:** You need this Spanish NOW. In Costa Rica, if you feel sick, you must explain yourself. This is urgent and important! 💪

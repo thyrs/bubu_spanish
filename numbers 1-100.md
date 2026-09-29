@@ -1,5 +1,7 @@
 
+[Main menu ↩](000_menu.md)
 
+# numbers
 
 1 uno 
 2 dos
@@ -15,7 +17,8 @@
 12 doce
 13 trece
 14 catorce
-15 quince /kinse/
+15 quince 
+/kinse/
 16 diesiseis
 17 diesisiete
 18 diesiocho
