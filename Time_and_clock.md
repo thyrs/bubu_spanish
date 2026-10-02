@@ -1,5 +1,7 @@
 [Main menu ↩](000_menu.md)
 
+day, evening, hour, minute, month, morning, night, time, today, tonight, tomorrow, week, yesterday
+
 # La Hora (The Time)
 
 - **¿Qué hora es?** (What time is it?)

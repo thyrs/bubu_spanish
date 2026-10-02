@@ -1,0 +1,1 @@
+will, won’t, ask, be (am, are, is, was, were), can/can’t/could, come/came, do/does/don’t/did, eat/ate, excuse, gain, get/got, give, go/went, have/has/had, help, know/knew, learn, like, make/made, must, please, put, read, say/said, see/saw, sent, sit/sat, sleep/slept, smoke, start, stop, take/took, thank, think/thought, understand/understood, use, want, work, write/wrote

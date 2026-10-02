@@ -1,5 +1,7 @@
 [Main menu ↩](000_menu.md)
 
+at, after, for, from, in, on, to, with
+
 #### Prepositions:
 1. **At** - **En / A**
 

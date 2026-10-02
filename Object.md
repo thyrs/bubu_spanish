@@ -1,0 +1,1 @@
+bag, book, letter, telephone, thing, story, word, picture, nothing
