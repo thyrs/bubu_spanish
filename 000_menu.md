@@ -7,7 +7,7 @@
 ## Module 2 grammar and vocabulary
 - [x] [Numbers 1-100](<numbers 1-100.md>): 
 - [ ] Numbers_100-1M:
-- [ ] [Demonstratives](demostrtives.md):
+- [x] [Demonstratives](demostrtives.md):
 - [ ] [verb To be](Verb_to_be.md)  
 - [x] [pronouns](Pronouns.md): i, you , she, he, we, you
 - [ ] [regular verbs](<common verbs ar er ir.md>): 
@@ -28,7 +28,7 @@
     - [ ] Clothes: 
     - [ ] Transportation: 
     - [ ] Technology:
-    - [ ] Jobs:
+    - [ ] [Jobs:](Jobs.md)
     - [ ] family: cusion, nice, mother/father in law
     - [ ] Feelings:
     - [ ] Flavors: 

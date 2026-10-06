@@ -1,35 +1,101 @@
 [Main menu ↩](000_menu.md)
 
 
+# Class 2 - Demonstratives
 
-# Class 2 - demonstratives|
+In Spanish, there is usually a **male** and **female** version for every word.
 
-In spanish there is usually a male and female version for every word. Male (M) Female (F)
+## The Words
+```
+Este     
+es-te     
+This  (male)
 
-*This*
-Este (M) 
-Esta (F)
+Aquel    
+a-kel     
+That  (male)
 
-*That*
-Aquel (M) /akel/
-Aquella (Female) /akeya/
+Estos    
+es-tos    
+These (male)
 
-*These*
-Estos (M)
-Estas (F)
+Aquellos 
+a-ke-yos  
+Those (male)
 
-*Those*
-Aquellos (M) /akeyos/
-Aquellas (F) /akeyas/
 
-Este gato (this (male) cat) 
-Esta gata (this (female) cat) 
+Esta      
+es-ta         
+This  (female)
 
-Aquel gato (that (male) cat)
-Aquella gata (that (female) cat)
+Aquella   
+a-ke-ya       
+That  (female)
 
-Estos gatos (these (male) cats) 
-Estas gatas (these (female) cats) 
+Estas     
+es-tas        
+These (female)
 
-Aquellos gatos (those (male) cats)
-Aquellas gatas (those (female) cats)
+Aquellas  
+a-ke-yas      
+Those (female)
+```
+
+## Examples with "gato/gata" (cat)
+
+```
+Este gato
+es-te ga-to
+This (male) cat
+```
+
+```
+Esta gata
+es-ta ga-ta
+This (female) cat
+```
+
+```
+Aquel gato
+a-kel ga-to
+That (male) cat
+```
+
+```
+Aquella gata
+a-ke-ya ga-ta
+That (female) cat
+```
+
+```
+Estos gatos
+es-tos ga-tos
+These (male) cats
+```
+
+```
+Estas gatas
+es-tas ga-tas
+These (female) cats
+```
+
+```
+Aquellos gatos
+a-ke-yos ga-tos
+Those (male) cats
+```
+
+```
+Aquellas gatas
+a-ke-yas ga-tas
+Those (female) cats
+```
+
+---
+
+## 💪 Practice Time!
+
+Try to say these out loud! Point to something near you and say **"Este/Esta ___"** and something far and say **"Aquel/Aquella ___"**
+
+> **Remember:** If the object is **male** → use **Este / Aquel**
+> If the object is **female** → use **Esta / Aquella**
