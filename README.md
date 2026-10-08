@@ -3,11 +3,10 @@
 <!-- https://github.com/thyrs/bubu_spanish -->
 
 
-
 ## Module 2 grammar and vocabulary
 - [x] [Numbers 1-100](<numbers 1-100.md>): 
 - [ ] Numbers_100-1M:
-- [ ] [Demonstratives](demostrtives.md):
+- [x] [Demonstratives](demostrtives.md):
 - [ ] [verb To be](Verb_to_be.md)  
 - [x] [pronouns](Pronouns.md): i, you , she, he, we, you
 - [ ] [regular verbs](<common verbs ar er ir.md>): 
@@ -17,9 +16,9 @@
     - [ ] Business: 
     - [ ] Travel: 
     - [ ] Objects: 
-    - [ ] [Food](food.md)
+    - [x] [Food](food.md)
     - [ ] House: 
-    - [x] [days of the week.md](<days of the week done.md>)
+    - [x] [days of the week.md](days_of_the_week.md)
     - [x] [Colors](<colors done.md>)
     - [x] [Body:](Body.md)
     - [x] [Animals](animals.md)
@@ -28,20 +27,20 @@
     - [ ] Clothes: 
     - [ ] Transportation: 
     - [ ] Technology:
-    - [ ] Jobs:
+    - [ ] [Jobs:](Jobs.md)
     - [ ] family: cusion, nice, mother/father in law
     - [ ] Feelings:
     - [ ] Flavors: 
     - [ ] Sports:
     - [x] [Medical terms and diseases:](Medical_terms_and_diseases.md)
     - [ ] Profanity: 
-- [ ] [Time and clock](Time_and_clock.md): 
+- [x] [Time and clock](Time_and_clock.md): 
 - [ ] [Prepositions](Prepositions.md): 
 - [ ] Simple_Past:
 - [ ] Simple_Future:
 - [ ] Modifiers: 
 - [ ] Conjunctions: and, or, if, but, so, that
-- [ ] [Possessives](possessives.md): my, your, their
+- [>] [Possessives](possessives.md): my, your, their
 - [ ] [Reflexive and Object](Reflexive_and_Object.md)
 - [ ] [Interrogative Pronouns](Interrogative_Pronouns.md)
 - [ ] Interjections: hello, goodbye, oh!
