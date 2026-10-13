@@ -8,24 +8,24 @@
 
 ```
 My                    
-**Mi** (Singular)
-**Mis** (Plural)
+Mi (Singular)
+Mis (Plural)
 
 His / Her / Its / Your
-**Su** (Singular)
-**Sus** (Plural)
+Su (Singular)
+Sus (Plural)
 
 Our (masc.)           
-**Nuestro** (Singular)
-**Nuestros** (Plural)
+Nuestro (Singular)
+Nuestros (Plural)
 
 Our (fem.)            
-**Nuestra** (Singular)
-**Nuestras** (Plural)
+Nuestra (Singular)
+Nuestras (Plural)
 
 Their / Your (plural) 
-**Su** (Singular)
-**Sus** (Plural)
+Su (Singular)
+Sus (Plural)
 ```
 ---
 
@@ -146,16 +146,12 @@ Try before looking! 💪
 
 ---
 
-<details>
-<summary>👁️ Click to see answers</summary>
 
 1. **Mi gata / Mi gato**
 2. **Nuestros amigos**
 3. **Su casa**
 4. **Mis libros**
 5. **Nuestra hija**
-
-</details>
 
 ---
 
@@ -171,16 +167,11 @@ Choose the correct possessive: **Mi / Mis / Su / Sus / Nuestro / Nuestra / Nuest
 
 ---
 
-<details>
-<summary>👁️ Click to see answers</summary>
-
 1. **Mi** hermano es alto
 2. **Su** gato es negro
 3. **Nuestra** familia es grande
 4. **Sus** amigos son divertidos
 5. **Mis** casas son bonitas
-
-</details>
 
 ---
 
@@ -188,34 +179,3 @@ Choose the correct possessive: **Mi / Mis / Su / Sus / Nuestro / Nuestra / Nuest
 > *"¿Cuál es tu trabajo?"* = What is your job?
 > *"¿Dónde está tu casa?"* = Where is your house?
 > **You need possessives to answer! Keep practicing! 🚀**
-
-<!-- 
-# *Possessives*
-
-*My* - *Mi*(Singual), *Mis* (Plural)
-*His/Her/Its/Your* - *Su*(Singual)  *Sus* (Plural)
-*Our* - *Nuestro/Nuestra*(Singual) *Nuestros/Nuestras* (Plural)
-*Their/Your* - *Su* (Singual) *Sus* (Plural)
-
-(Singual)
-Mi casa (My house)
-Su coche (His/Her/Its/Your car)
-Nuestro perro (Our dog) [masculine]
-Nuestra gata (Our cat) [feminine]
-Su escuela (Their school)
-
-(Plural)
-Mis amigos (My friends)
-Sus libros (His/Her/Its/Your books)
-Nuestros hijos (Our sons) [masculine]
-Nuestras hijas (Our daughters) [feminine]
-Sus casas (Their houses)
-
-#### Examples in Sentences:
-- Mi hermano es alto. *(My brother is tall.)*
-- Su gato es negro. *(His/her/their cat is black.)*
-- Nuestra familia es grande. *(Our family is big.)*
-- Sus amigos son divertidos. *(Their friends are fun.)*
-
-Remember that the possessive adjective must match the noun it describes in both gender and number.
- -->

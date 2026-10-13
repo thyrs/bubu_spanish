@@ -1,76 +1,284 @@
 
 [Main menu ↩](000_menu.md)
 
-# The verb "to be" 
 
-The verb "to be" in Spanish has two forms: **ser** and **estar**. Both are used to express "to be," but they have different uses. 
-
-#### 1. Why Two Verbs for "To Be"?
-- Use **ser** for things that don’t change easily (e.g., who you are, your job, your nationality).
-- Use **estar** for things that can change or are temporary (e.g., feelings, locations).
+# 🔤 Lesson: The Verb "To Be" — Ser & Estar
 
 ---
 
-#### 2. Conjugation of **"Ser"** (Present Tense)
-**Ser** is used to talk about who you are, what you do, or where you’re from.
+## 📌 Why Are There TWO Verbs for "To Be"?
 
-Yo **soy** estudiante. (I am a student.)          
-Tú **eres** alto. (You are tall.)                 
-Él **es** de Costa Rica. (He is from Costa Rica.) 
-Nosotros **somos** amigos. (We are friends.)      
-Ustedes **son** simpáticos. (You all are nice.) 
-Ellos **son** profesores. (They are teachers.)    
-
-**Key Uses of "Ser"**:
--**Identity**: Yo __soy__ Ana. (I am Ana.)
--**Occupation**: Ella __es__ doctora. (She is a doctor.)
--**Origin**: __Somos__ de México. (We are from Mexico.)
--**Characteristics**: __Es__ inteligente. (He/she is intelligent.)
--**Time**: __Es__ la una. (It’s one o’clock.)
+> In English you only have **one** verb → "to be"
+> In Spanish there are **two** → **ser** and **estar**
+> You need BOTH — they are used every single day! 💪
 
 ---
 
-#### 3. Conjugation of **Estar** (Present Tense)
-**Estar** is used for temporary states or locations.
+## 🔵 The Simple Rule:
 
-Yo **estoy** cansado. (I am tired.)                          
-Tú **estás** en la casa. (You are at home.)                  
-Ella **está** enferma. (She is sick.)                        
-Nosotros **estamos** contentos. (We are happy.)              
-Ustedes **estan** en la playa. (You all are at the beach.) 
-Ellos **están** ocupados. (They are busy.)                   
-
-**Key Uses of Estar**:
-- **Location**: Estamos en el parque. (We are in the park.)
-- **Temporary states**: Está triste hoy. (He/she is sad today.)
-- **Conditions**: El café está caliente. (The coffee is hot.)
-
-
-#### 5. Practice Sentences
-Try these simple sentences to practice:
-1. Yo ___ (ser) de Costa Rica.
-2. Tú ___ (estar) en la escuela.
-3. Nosotros ___ (ser) estudiantes.
-4. Ella ___ (estar) feliz.
-5. Ellos ___ (ser) altos.
-
-**Answers**: 1. soy, 2. estás, 3. somos, 4. está, 5. son
+| Verb      | Use it for...    | Think of it as...            |
+| --------- | ---------------- | ---------------------------- |
+| **Ser**   | Permanent things | Who you ARE                  |
+| **Estar** | Temporary things | How you FEEL / Where you ARE |
 
 ---
 
-#### 6. Quick Activity
-Fill in the blank with the correct form of **ser** or **estar**:
-1. Mi hermano ___ muy divertido. (permanent trait)
-2. La sopa ___ fría ahora. (temporary condition)
-3. ¿Dónde ___ tú? (location)
+## 🔵 Part 1: SER — Who You Are
 
-**Answers**: 1. es (ser), 2. está (estar), 3. estás (estar)
+> Use **ser** for things that **don't change easily:**
+> your name, job, nationality, personality, time
 
 ---
 
-#### 7. Final Note
-- Practice conjugating **ser** and **estar** daily with simple sentences.
-- Pay attention to whether the situation is permanent (**ser**) or temporary (**estar**).
-- Listen to native speakers or watch beginner Spanish videos to hear these verbs in context.
 
-¡Buena suerte! (Good luck!)
+### SER in Action — Key Uses
+
+**🪪 Identity — who you are**
+```
+Yo soy Ana
+jjo soi a-na
+I am Ana
+```
+
+**💼 Occupation — your job**
+```
+Ella es doctora
+e-jja es dok-to-ra
+She is a doctor
+```
+
+**🌍 Origin — where you are from**
+```
+Somos de Costa Rica
+so-mos de kos-ta ri-ka
+We are from Costa Rica
+```
+
+**🧠 Characteristics — personality or description**
+```
+Él es inteligente
+el es in-te-li-hen-te
+He is intelligent
+```
+
+**🕐 Time**
+```
+Es la una
+es la u-na
+It is one o'clock
+```
+
+---
+
+## 🟢 Part 2: ESTAR — How You Feel / Where You Are
+
+> Use **estar** for things that **can change:**
+> feelings, locations, conditions
+
+---
+
+### Conjugation of ESTAR
+
+```
+Yo estoy
+jjo es-toy
+I am
+```
+
+```
+Usted está
+us-ted es-ta
+You are (formal)
+```
+
+```
+Él / Ella está
+el / e-jja es-ta
+He / She is
+```
+
+```
+Nosotros estamos
+no-so-tros es-ta-mos
+We are
+```
+
+```
+Ustedes están
+us-te-des es-tan
+You all are
+```
+
+```
+Ellos / Ellas están
+e-jjos / e-jjas es-tan
+They are
+```
+
+---
+
+### ESTAR in Action — Key Uses
+
+**📍 Location — where something/someone is**
+```
+Estamos en el parque
+es-ta-mos en el par-ke
+We are in the park
+```
+
+**😔 Temporary feelings**
+```
+Está triste hoy
+es-ta tris-te oi
+He/She is sad today
+```
+
+**☕ Conditions — state of something**
+```
+El café está caliente
+el ka-fe es-ta ka-lien-te
+The coffee is hot
+```
+
+---
+
+## 📋 SER vs ESTAR — Quick Comparison
+
+|                | **SER**         | **ESTAR**            |
+| -------------- | --------------- | -------------------- |
+| **Name**       | Yo soy Ana      | —                    |
+| **Job**        | Ella es doctora | —                    |
+| **Origin**     | Somos de México | —                    |
+| **Location**   | —               | Estamos en el parque |
+| **Feelings**   | —               | Estoy cansado        |
+| **Conditions** | —               | El café está frío    |
+
+---
+
+## ✍️ Exercise 1 - Fill in: SER or ESTAR?
+
+Choose the correct verb form!
+
+**1.** Yo ___ de Costa Rica. *(origin)*
+**2.** Tú ___ en la escuela. *(location)*
+**3.** Nosotros ___ estudiantes. *(occupation)*
+**4.** Ella ___ feliz. *(feeling)*
+**5.** Ellos ___ altos. *(characteristic)*
+
+---
+
+
+1. **soy** → ser (origin)
+2. **estás** → estar (location)
+3. **somos** → ser (occupation)
+4. **está** → estar (feeling)
+5. **son** → ser (characteristic)
+
+
+
+---
+
+## ✍️ Exercise 2 - Translate to Spanish
+
+**1.** I am tired →
+**2.** She is a doctor →
+**3.** We are from Costa Rica →
+**4.** The coffee is hot →
+**5.** They are busy →
+
+---
+
+
+1. **Yo estoy cansado/a**
+2. **Ella es doctora**
+3. **Somos de Costa Rica**
+4. **El café está caliente**
+5. **Ellos están ocupados**
+
+
+
+---
+
+## ✍️ Exercise 3 - SER or ESTAR? Why?
+
+Choose **ser** or **estar** and explain why!
+
+**1.** Mi hermano ___ muy divertido. *(permanent trait)*
+**2.** La sopa ___ fría ahora. *(temporary condition)*
+**3.** ¿Dónde ___ usted? *(location)*
+
+---
+
+
+1. **es** → ser (permanent personality trait)
+2. **está** → estar (temporary condition — it can get hot again!)
+3. **está** → estar (location — always use estar for where!)
+
+
+
+---
+
+## 🌟 Bonus - Ser & Estar at Work in Costa Rica! 🇨🇷
+
+```
+Yo soy trabajadora
+jjo soi tra-ba-ha-do-ra
+I am a hard worker
+```
+
+```
+Estoy lista para trabajar
+es-toy lis-ta pa-ra tra-ba-har
+I am ready to work
+```
+
+```
+¿Dónde está el trabajo?
+don-de es-ta el tra-ba-ho
+Where is the work?
+```
+
+```
+Soy de zambia
+jjo soi de sam-bia
+I am from zambia
+```
+
+```
+Estoy aprendiendo español
+es-toy a-pren-dien-do es-pa-nyol
+I am learning Spanish
+```
+
+---
+
+## 📝 Key Sentences to Remember
+
+```
+Yo soy Ana
+jjo soi a-na
+I am Ana
+```
+
+```
+Yo estoy cansada
+jjo es-toi kan-sa-da
+I am tired
+```
+
+```
+Somos de Costa Rica
+so-mos de kos-ta ri-ka
+We are from Costa Rica
+```
+
+```
+Estamos en el trabajo
+es-ta-mos en el tra-ba-ho
+We are at work
+```
+
+---
+
+> 💪 **Ser and Estar are the most important verbs in Spanish! You will use them in EVERY conversation. Master these two and you are already speaking Spanish! Costa Rica is waiting for you! 🚀**
+> When you finish the exercises, tell me and we go to the **next lesson!**

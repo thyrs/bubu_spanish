@@ -5,47 +5,47 @@
 
 ## Module 2 grammar and vocabulary
 - [x] [Numbers 1-100](<numbers 1-100.md>): 
-- [ ] Numbers_100-1M:
+- [ ] [Numbers_100-1M:](Numbers_100-1M.md)
 - [x] [Demonstratives](demostrtives.md):
-- [ ] [verb To be](Verb_to_be.md)  
+- [>>>] [verb To be](Verb_to_be.md)  
 - [x] [pronouns](Pronouns.md): i, you , she, he, we, you
-- [ ] [regular verbs](<common verbs ar er ir.md>): 
-- [ ] [Accentos](acentos.md)
+- [>>>] [regular verbs](<common verbs ar er ir.md>): 
+- [>>>] [Accentos](acentos.md)
 - [ ] Substantives: 
-    - [ ] Nature: fire, light, sun
-    - [ ] Business: 
-    - [ ] Travel: 
-    - [ ] Objects: 
+    - [ ] [Nature:](Nature.md)
+    - [ ] [Business:](Business.md) 
+    - [ ] [Travel:](Travel.md) 
+    - [ ] [Objects: ](Object.md)
     - [x] [Food](food.md)
-    - [ ] House: 
+    - [ ] [House:](House.md) 
     - [x] [days of the week.md](days_of_the_week.md)
     - [x] [Colors](<colors done.md>)
     - [x] [Body:](Body.md)
     - [x] [Animals](animals.md)
     - [x] [kitchen](kitcken.md)
     - [x] [People](people.md)
-    - [ ] Clothes: 
-    - [ ] Transportation: 
-    - [ ] Technology:
-    - [ ] [Jobs:](Jobs.md)
-    - [ ] family: cusion, nice, mother/father in law
-    - [ ] Feelings:
-    - [ ] Flavors: 
-    - [ ] Sports:
+    - [ ] [Clothes: ](Clothes.md)
+    - [ ] [Transportation: ](Transportation.md)
+    - [ ] [Technology:](Technology.md)
+    - [>>>] [Jobs:](Jobs.md)
+    - [ ] [family:](family.md) 
+    - [ ] [Feelings:](Feelings.md)
+    - [ ] [Flavors: ](Flavors.md)
+    - [ ] [Sports:](Sports.md)
     - [x] [Medical terms and diseases:](Medical_terms_and_diseases.md)
-    - [ ] Profanity: 
-- [x] [Time and clock](Time_and_clock.md): 
-- [ ] [Prepositions](Prepositions.md): 
-- [ ] Simple_Past:
-- [ ] Simple_Future:
-- [ ] Modifiers: 
-- [ ] Conjunctions: and, or, if, but, so, that
-- [>] [Possessives](possessives.md): my, your, their
-- [ ] [Reflexive and Object](Reflexive_and_Object.md)
-- [ ] [Interrogative Pronouns](Interrogative_Pronouns.md)
-- [ ] Interjections: hello, goodbye, oh!
-- [ ] Articles: the
-- [ ] Verbs (and auxiliaries): 
+    - [ ] [Profanity: ](Profanity.md)
+- [x] [Time_and_clock](Time_and_clock.md): 
+- [>>>] [Prepositions](Prepositions.md): 
+- [ ] [Simple_Past:](Simple_Past.md)
+- [ ] [Simple_Future:](Simple_Future.md)
+- [ ] [Modifiers: ](Modifiers.md)
+- [ ] [Conjunctions: and, or, if, but, so, that](Conjunctions.md)
+- [x] [Possessives](possessives.md): my, your, their
+- [>>>] [Reflexive and Object](Reflexive_and_Object.md)
+- [>>>] [Interrogative Pronouns](Interrogative_Pronouns.md)
+- [ ] [Interjections: hello, goodbye, oh!](Interjections.md)
+- [ ] [Articles: the](Articles.md)
+- [ ] [Verbs (and auxiliaries):](Verbs.md) 
 
 ## [x] Module 1 pronunciation
 
