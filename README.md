@@ -9,7 +9,7 @@
 - [x] [Demonstratives](demostrtives.md):
 - [>>>] [verb To be](Verb_to_be.md)  
 - [x] [pronouns](Pronouns.md): i, you , she, he, we, you
-- [>>>] [regular verbs](<common verbs ar er ir.md>): 
+- [x] [regular verbs](<common verbs ar er ir.md>): 
 - [>>>] [Accentos](acentos.md)
 - [ ] Substantives: 
     - [ ] [Nature:](Nature.md)
